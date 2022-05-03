@@ -10,7 +10,11 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Technologies - GitHub Webhook demo  .....</h1>
-<h1 align="center">Welcome To The Mithun Devops Training in Bangalore!</h1>
+<h1 align="center">Welcome to Day 25 of 100 Days of AWS. The topic for today is Rotating IAM Keys on a regular basis using Boto3
+
+This is another common use case we use to encounter as a part of daily DevOps job where we need to rotate the IAM key as per company policy(for e.g., every 30 or 60 days). One of the primary reasons to rotate these keys is to follow the best security practice and reduce the blast radius if these keys got compromised.
+
+To write this code, we need to follow the series of steps</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
